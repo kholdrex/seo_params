@@ -19,7 +19,7 @@ module SeoParams
       h["pr"] = pr(url)
       h["gp"] = gp(url)
       h["tic"] = tic(url)
-      h["yap"] = yap(url)
+     # h["yap"] = yap(url)
       h["tweets"] = tweets(url)
       h["likes"] = likes(url)
       h["ar"] = ar(url)
